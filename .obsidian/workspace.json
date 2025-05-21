@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d21183917c419759",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d66e580fecd4ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45e3782b9337986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 랜딩페이지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "나우서울 랜딩페이지"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f01a5500cc719a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7094ce748e04dcf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb1ec15fb8ba462",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "25552ff5b129998e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ac6641afee88ac47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96aa0744f2cbda28",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ba407a51697ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403f5a89376343ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "32668ac40457e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "56ccd76d95b88485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "15300e4ab429764a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "b45e3782b9337986",
+  "lastOpenFiles": [
+    "20_SSOBIG/24_러브버디즈/러브버디즈 랜딩페이지.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 랜딩페이지.md",
+    "20_SSOBIG/25_나우서울/나우서울 진행/브랜딩&비주얼 커뮤니케이션 모임 세션별 발제문 (25분 구성).md",
+    "20_SSOBIG/25_나우서울/나우서울 진행/스몰 브랜드 & 사이드 프로젝트 세션별 발제문 (25분 구성).md",
+    "20_SSOBIG/Game Orb 게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 5) 나우서울에는 어떤 사람들이 올까요.md",
+    "20_SSOBIG/28_meeting/넷플연가.md",
+    "20_SSOBIG/28_meeting",
+    "20_SSOBIG/27_ssobig idia/이상한 쏘빅의 청년들.md",
+    "20_SSOBIG/27_ssobig idia",
+    "20_SSOBIG/24_러브버디즈",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 초기 아이디어.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 운영자료.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 브랜딩자료.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/나우서울 USP(Unique Selling Point)설정.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료/N.O.W.seoul Brand Messaging Kit.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 8) 나우서울, 왜 이렇게 진행되나요?.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 6) 우리가 진짜 네트워킹을 갈망했던 이유 - N.O.W.seoul 이야기.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 4) 우리 이제 ‘아쉬운 우연'을 더 이상 만들지 말아요.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 5) 나우서울에는 어떤 사람들이 올까요.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 1) NOW 서울, 우리는 지금 연결될 필요가 있어.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 3) 목요일에 누군가 “오늘 저녁에 뭐해?” 라고 묻는다면.md",
+    "20_SSOBIG/25_나우서울/나우서울 아티클/아티클 2) NOW 서울,친구가 없는 사람이어떻게 모임을 여나요?.md",
+    "20_SSOBIG/25_나우서울/나우서울 브랜드 자료",
+    "20_SSOBIG/25_나우서울/나우서울 아티클",
+    "20_SSOBIG/25_나우서울/나우서울 진행",
+    "20_SSOBIG/25_나우서울",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 진행/스몰 브랜드 & 사이드 프로젝트 세션별 발제문 (25분 구성).md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 진행/브랜딩&비주얼 커뮤니케이션 모임 세션별 발제문 (25분 구성).md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 8) 나우서울, 왜 이렇게 진행되나요?.md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 6) 우리가 진짜 네트워킹을 갈망했던 이유 - N.O.W.seoul 이야기.md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 5) 나우서울에는 어떤 사람들이 올까요.md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 4) 우리 이제 ‘아쉬운 우연'을 더 이상 만들지 말아요.md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클/아티클 3) 목요일에 누군가 “오늘 저녁에 뭐해?” 라고 묻는다면.md",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 진행",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 아티클",
+    "20_SSOBIG/26_게임오브/무제/N.O.W.seoul 나우서울/나우서울 브랜드 자료"
+  ]
+}

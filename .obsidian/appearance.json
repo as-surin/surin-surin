@@ -1,4 +1,12 @@
 {
   "cssTheme": "Things",
-  "baseFontSize": 16
+  "baseFontSize": 14,
+  "textFontFamily": "Pretendard",
+  "interfaceFontFamily": "Pretendard",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": true,
+  "translucency": true,
+  "accentColor": "#a575ff",
+  "theme": "moonstone"
 }
